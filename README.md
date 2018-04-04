@@ -1,6 +1,9 @@
 # hello-world
 
-/*Author: Liao,Fu-Hsin */
-/*Date:2018/04/04      */
+Author: Liao,Fu-Hsin
+Date:2018/04/04
 
-An repository for practice
+Hi There!
+I'm FuHsin from Taiwan(ROC).
+This is a repository for practice.
+Enjoy it!
